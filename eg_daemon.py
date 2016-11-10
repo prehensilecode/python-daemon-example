@@ -26,7 +26,7 @@ def do_something(logf):
     logger.addHandler(fh)
 
     while True:
-        logger.debug("this is an DEBUG message")
+        logger.debug("this is a DEBUG message")
         logger.info("this is an INFO message")
         logger.error("this is an ERROR message")
         time.sleep(5)
