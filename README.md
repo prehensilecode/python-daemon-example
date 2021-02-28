@@ -1,5 +1,5 @@
 # python-daemon-example
-Simple example of using python-daemon with logging and PID lock file.
+Simple example of using [python-daemon](https://pypi.org/project/python-daemon/) with logging and PID lock file.
 
 What is here:
 * eg_daemon.py -- the Python-based daemon itself; should be installed in /var/lib/eg_daemon/
